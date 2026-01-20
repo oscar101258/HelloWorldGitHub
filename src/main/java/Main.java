@@ -7,9 +7,15 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello");
+        System.out.println("Another print line");
     }
 }
 
-// Version control - a tool for tracking changes
-// What is a repo? HelloWorldGithub is a folder or a "directory"
-// To make this folder a repository (or repo for short), I need to put it under version control.
+/*
+ Version control - a tool for tracking changes
+ What is a repo? HelloWorldGithub is a folder or a "directory"
+ To make this folder a repository (or repo for short), I need to put it under version control.
+ A commit is a package of changes with a label
+ label <---> message
+ */
+
